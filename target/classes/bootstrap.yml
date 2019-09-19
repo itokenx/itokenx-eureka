@@ -2,8 +2,8 @@ spring:
   # 通过config服务读取云配置
   cloud:
     config:
-      uri: http://192.168.119.131:8888
+      uri: http://localhost:8888
       name: itokenx-eureka
       label: master
       # dev prod test testing
-      profile: prod
+      profile: dev
