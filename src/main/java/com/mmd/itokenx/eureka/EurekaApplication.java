@@ -1,4 +1,4 @@
-package com.mmd.eureka;
+package com.mmd.itokenx.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
